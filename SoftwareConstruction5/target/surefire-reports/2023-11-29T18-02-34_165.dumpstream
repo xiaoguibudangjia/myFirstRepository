@@ -1,0 +1,5 @@
+# Created at 2023-11-29T18:02:39.090
+Boot Manifest-JAR contains absolute paths in classpath 'D:\U\软件构造-资源\软件构造-资源1\resource-archive-from-QQ-软件构造\junit5-jupiter-starter-maven\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
